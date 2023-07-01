@@ -1,5 +1,5 @@
 ### Oii, meu nome é Leandra! :)
 
-- 🌱 Atualemnte estudando JavaScript
+- 🌱 Atualmente estudando JavaScript
 - 😄 Pronouns: ela/dela
 
