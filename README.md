@@ -14,9 +14,6 @@
 <img align="center" alt="PostgresSQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
 
-
-
-<img align="right" alt="leandra-icon" height="130"  src="https://im.ezgif.com/tmp/ezgif-1-42db061d96.gif">
 </div>
 
 ##
