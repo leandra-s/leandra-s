@@ -25,7 +25,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=footer"/>
 
-![Snake animation](https://github.com/leandra-s/leandra-s/blob/output/github-contribution-grid-snake.svg)
+
 
 
           
