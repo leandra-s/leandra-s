@@ -7,14 +7,14 @@
 
 ## 
 
-<h3 align="center"/> <img width="40px"  src="https://64.media.tumblr.com/65a6041a9b65bc27dbf3751544f619ed/c5a1662e851c7214-b4/s400x600/7a2aa22b67363a0bebc4d91461f8f6c526c45331.gifv"/> About me/Curiosities: </h3>
+<h3 align="center"/> <img width="40px"  src="https://64.media.tumblr.com/65a6041a9b65bc27dbf3751544f619ed/c5a1662e851c7214-b4/s400x600/7a2aa22b67363a0bebc4d91461f8f6c526c45331.gifv"/> About me: </h3>
 
-<li/> 💻 Me interessei pela área de programação em 2021. </li>
-<li/> 🌟 Sempre tento buscar desafios! </li>
-<li/> <img width="20px"  src="https://64.media.tumblr.com/b2d61d13074bad0dad36d749461c2d14/5e36ae3c77831c92-a1/s500x750/8f51cfded39bf3a2ff0c054437aca95ecbb2446d.gifv"/> Assisto Aggretsuko todo mês. </li>
-<li/> 🥘 Amo cozinhar, amo comer! </li>
-<li/> 🕹️ Gosto de jogos de RPG, mas jogos de terror me ganham! </li>
-<li/> 🐕 Tenho uma pet fofuxa. </li>
+- 💻 Me interessei pela área de programação em 2021. 
+- 🌟 Sempre tento buscar desafios! 
+- <img width="20px"  src="https://64.media.tumblr.com/b2d61d13074bad0dad36d749461c2d14/5e36ae3c77831c92-a1/s500x750/8f51cfded39bf3a2ff0c054437aca95ecbb2446d.gifv"/> Assisto Aggretsuko todo mês. 
+- 🥘 Amo cozinhar, amo comer! 
+- 🕹️ Gosto de jogos de RPG, mas jogos de terror me ganham! 
+- 🐕 Tenho uma pet fofuxa. 
 
 ##
 
